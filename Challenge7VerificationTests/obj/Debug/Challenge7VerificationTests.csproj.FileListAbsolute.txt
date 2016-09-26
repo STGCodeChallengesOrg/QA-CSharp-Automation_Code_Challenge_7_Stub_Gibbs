@@ -1,0 +1,12 @@
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\bin\Debug\Challenge7VerificationTests.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\bin\Debug\Challenge7VerificationTests.pdb
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\bin\Debug\QA-CSharp-Automation_Code_Challenge_7_Stub.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\bin\Debug\WebDriver.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\bin\Debug\QA-CSharp-Automation_Code_Challenge_7_Stub.pdb
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\bin\Debug\WebDriver.pdb
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\bin\Debug\WebDriver.xml
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\obj\Debug\Challenge7VerificationTests.csprojResolveAssemblyReference.cache
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\obj\Debug\Challenge7VerificationTests.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\obj\Debug\Challenge7VerificationTests.pdb
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_7_Stub\Challenge7VerificationTests\bin\Debug\bin\Debug\Dictionary.txt
